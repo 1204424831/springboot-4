@@ -25,4 +25,10 @@ public class User implements Serializable {
     private Long age;
     @JsonFormat(timezone = "GMT+8", pattern = "yyyy-MM-dd HH:mm:ss")
     private Date birthday;
+    
+    
+    
+    
+    
+    
 }
